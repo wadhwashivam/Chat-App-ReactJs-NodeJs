@@ -90,10 +90,6 @@ This repository provides two versions of the frontend interface for your conveni
 
 Please note that this application uses free services from ChatEngine.io, which limits concurrent users to 10. Additionally, the free trial for ChatEngine.io lasts for 30 days, after which you may need to subscribe to their services or explore alternative options to continue using the app.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please create a pull request or open an issue in this repository.
